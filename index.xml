@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="WHFB 6th Ed" indexUrl="https://raw.githubusercontent.com/Ergofarg/Warhammer-Fantasy-6th-edition/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+	<dataIndexEntries>
+		<dataIndexEntry filePath="Warhammer Fantasy Battle 6th edition.gst" dataType="gamesystem" dataId="6d8e-38d9-3c69-febf" dataName="Warhammer Fantasy Battle 6th edition" dataBattleScribeVersion="2.03" dataRevision="6"/>
+		<dataIndexEntry filePath="Wood Elf.cat" dataType="catalogue" dataId="26df-b21d-fea9-9520" dataName="Wood Elf" dataBattleScribeVersion="2.03" dataRevision="1"/>
+		<dataIndexEntry filePath="Lizardmen.cat" dataType="catalogue" dataId="5f3d-d4db-ca2f-f63d" dataName="Lizardmen" dataBattleScribeVersion="2.03" dataRevision="6"/>
+		<dataIndexEntry filePath="Vampire Counts.cat" dataType="catalogue" dataId="ea4b-9294-3427-1fc1" dataName="Vampire Counts" dataBattleScribeVersion="2.03" dataRevision="7"/>
+		<dataIndexEntry filePath="Dwarfs.cat" dataType="catalogue" dataId="3a5f-213a-5ffc-4ec0" dataName="Dwarfs" dataBattleScribeVersion="2.03" dataRevision="3"/>
+		<dataIndexEntry filePath="Empire.cat" dataType="catalogue" dataId="5c3d-7f54-5a40-6940" dataName="Empire" dataBattleScribeVersion="2.03" dataRevision="7"/>
+		<dataIndexEntry filePath="Dark Elves.cat" dataType="catalogue" dataId="7305-7dca-59e2-5b6a" dataName="Dark Elves" dataBattleScribeVersion="2.03" dataRevision="3"/>
+		<dataIndexEntry filePath="Orcs and Goblins.cat" dataType="catalogue" dataId="b126-4acf-f567-bea6" dataName="Orcs and Goblins" dataBattleScribeVersion="2.03" dataRevision="7"/>
+		<dataIndexEntry filePath="Skaven.cat" dataType="catalogue" dataId="cac6-5f02-f95d-a403" dataName="Skaven" dataBattleScribeVersion="2.03" dataRevision="2"/>
+		<dataIndexEntry filePath="High Elf.cat" dataType="catalogue" dataId="3878-c4be-6286-15a7" dataName="High Elf" dataBattleScribeVersion="2.03" dataRevision="4"/>
+		<dataIndexEntry filePath="Tomb Kings.cat" dataType="catalogue" dataId="9945-8537-0944-c67b" dataName="Tomb Kings" dataBattleScribeVersion="2.03" dataRevision="3"/>
+		<dataIndexEntry filePath="Bretonnia.cat" dataType="catalogue" dataId="b252-9ed2-2e94-382d" dataName="Bretonnia" dataBattleScribeVersion="2.03" dataRevision="5"/>
+		<dataIndexEntry filePath="Chaos.cat" dataType="catalogue" dataId="c768-2f35-01cf-9ac8" dataName="Chaos" dataBattleScribeVersion="2.03" dataRevision="2"/>
+		<dataIndexEntry filePath="Dogs of War.cat" dataType="catalogue" dataId="4887-12ed-22a2-f461" dataName="Dogs of War" dataBattleScribeVersion="2.03" dataRevision="1"/>
+	</dataIndexEntries>
+</dataIndex>
